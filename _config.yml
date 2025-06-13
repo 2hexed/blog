@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 2hexed's blog
+title: blog ok shutup
 email: 
 description: Blog. That's it.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,8 +26,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 2hexed
 
-# Build settings
-# theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
