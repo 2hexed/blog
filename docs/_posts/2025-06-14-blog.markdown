@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "blog?! :o"
+date:   2025-06-14 19:14:31 +0530
+categories: yapping
+---
+my blog with jekyll omg :33333
+
+gonna start posting here (probably :p)
+
+also yeah there's no fancy animations or anything here; i can't manage things for shit

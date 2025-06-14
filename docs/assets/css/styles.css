@@ -1,0 +1,28 @@
+:root {
+    --whiteish-color: #ddd3d3;
+    --blackish-color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: var(--whiteish-color);
+        background-color: var(--blackish-color);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        color: var(--blackish-color);
+        background-color: var(--whiteish-color);
+    }
+}
+
+.post-meta {
+    background-color: var(--whiteish-color);
+    color: var(--blackish-color);
+}
+
+body>* {
+    font-family: monospace;
+    font-size: large;
+}
