@@ -8,4 +8,14 @@ my blog with jekyll omg :33333
 
 gonna start posting here (probably :p)
 
-also yeah there's no fancy animations or anything here; i can't manage things for shit
+also yeah there's no fancy animations or anything here; i don't think i can manage it
+
+
+LENOVO laptop's Conservation Mode:
+
+`0` - disable
+`1` - enable
+
+```sh
+echo 1 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+```
