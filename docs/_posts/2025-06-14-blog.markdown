@@ -12,9 +12,8 @@ also yeah there's no fancy animations or anything here; i don't think i can mana
 
 
 LENOVO laptop's Conservation Mode:
-
-`0` - disable
-`1` - enable
+- `0` - disable
+- `1` - enable
 
 ```sh
 echo 1 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
